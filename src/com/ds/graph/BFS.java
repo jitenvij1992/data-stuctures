@@ -1,4 +1,4 @@
-package com.test.graph;
+package com.ds.graph;
 
 import java.awt.*;
 import java.util.LinkedList;
