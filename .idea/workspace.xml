@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d65c267-8b1a-4990-b0af-3e37407a80fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/graph/DFS.java" afterDir="false" />
+    <list default="true" id="3fe37037-eee6-428f-8282-c071c6fabdb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ds/greedy/MinProductSubset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Qx4xyNPZV7FPk1L4jIzTakBdtk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1TsLeIquK4J7ITTstbiozDsmZ9z" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -36,13 +38,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DFS">
+  <component name="RunManager" selected="Application.MinProductSubset">
     <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.graph.BFS" />
-      <module name="data-stucture" />
+      <option name="MAIN_CLASS_NAME" value="com.ds.graph.BFS" />
+      <module name="data-stuctures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.graph.*" />
+          <option name="PATTERN" value="com.ds.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.graph.DFS" />
-      <module name="data-stucture" />
+    <configuration name="MinProductSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.greedy.MinProductSubset" />
+      <module name="data-stuctures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.graph.*" />
+          <option name="PATTERN" value="com.ds.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,7 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DFS" />
+        <item itemvalue="Application.MinProductSubset" />
         <item itemvalue="Application.BFS" />
       </list>
     </recent_temporary>
@@ -75,11 +77,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2d65c267-8b1a-4990-b0af-3e37407a80fe" name="Default Changelist" comment="" />
-      <created>1568699163098</created>
+      <changelist id="3fe37037-eee6-428f-8282-c071c6fabdb4" name="Default Changelist" comment="" />
+      <created>1574243949706</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568699163098</updated>
+      <updated>1574243949706</updated>
     </task>
     <servers />
   </component>
@@ -93,5 +95,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/greedy/MinProductSubset.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/greedy/MinProductSubset.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
